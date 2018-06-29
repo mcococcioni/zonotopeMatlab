@@ -75,5 +75,3 @@ either expressed or implied, of the <project name> project.
 
 * This work has been funded by professors Marco Grazzi and Giovanni Dosi
 * from Scuola Superiore S.Anna, Pisa, Italy
-
-
